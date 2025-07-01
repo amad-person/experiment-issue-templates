@@ -23,7 +23,7 @@ body:
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen?
-      placeholder: 
+      placeholder: |
         1. Use a list of sentences
         2. In a placeholder
     validations:
